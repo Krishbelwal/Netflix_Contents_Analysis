@@ -1,8 +1,7 @@
 # Netflix Content & Genres Analysis
 
-![Dashboard](Netflix_Content_Type_overview.png)
-
-![Dashboard](Netflix_Geners_overview.png)
+![Dashboard](Netfllix_Content_Type_overview.png)
+![Dashboard](Netfllix_Geners_overview.png)
 
 ## 1. Project Overview
 This project analyzes Netflix content data to identify trends and user preferences in content type and genres based on release patterns. The goal is to support strategic content planning and decision-making.
