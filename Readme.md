@@ -38,7 +38,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 5. **Data Analysis:** Used pivot tables and charts in Excel to identify patterns and trends.  
 6. **Power BI Import:** Imported cleaned data into Power BI for visualization.  
 7. **DAX Measures:** Created key measures such as Total Shows, Total Movies, Total TV Shows, YoY growth, and Top Countries.  
-8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
+8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs and more.  
 9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
 
 ## 8. Key Insights
