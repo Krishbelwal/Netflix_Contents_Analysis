@@ -6,7 +6,7 @@
 ## 1. Project Overview
 This project analyzes Netflix content data to identify trends and user preferences in content type and genres based on release patterns. The goal is to support strategic content planning and decision-making.  
 
-**Key Metrics Analyzed:**  
+## 2. Key Metrics 
 - Total shows per content type  
 - Content vs release year trend (last 10 years)  
 - Content vs average duration  
@@ -18,33 +18,34 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Trend of top 5 genres (last 2 years)  
 - Genre distribution  
 - Average rating vs genres  
-- Content vs duration  
+- Content vs duration
+- Yot Trend for Genres in last 10 year  
 
-## 2. Dataset
+## 3. Dataset
 - **Source:** Kaggle  
 - **Total Records:** 24,000  
 - **Columns:** 12  
 
-## 3. Tools & Technologies
+## 4. Tools & Technologies
 - **Excel:** Data cleaning & analysis  
 - **Power BI:** Dashboard development & visualization  
 
-## 4. Data Cleaning Steps
+## 5. Data Cleaning Steps
 - Standardised text by capitalising columns.  
 - Handled missing values in `Director`, `Cast`, and `Country` columns using the "Go - Special" method.  
 - Split multiple values in `Genres` and `Country` columns using **Split Column by Delimiter** in Power Query.  
 - Applied **Unpivot Columns** for a normalized row format.  
 - Corrected date formats (dd-mm-yy → mm-dd-yy) for consistent visualization.  
 
-## 5. Dataset Links
+## 6. Dataset Links
 - **Original Dataset:** [Download CSV](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Original_dataset.csv)  
 - **Cleaned Dataset:** [Download Excel](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Cleaned_dataset.xlsx)  
 
-## 6. Dashboard Previews
+## 7. Dashboard Previews
 - **Content Type Overview:** [View Dashboard](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Netfllix%20Content%20Type%20overview.png)  
 - **Genres Overview:** [View Dashboard](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Netfllix%20Geners%20overview.png)  
 
-## 7. Project Workflow
+## 8. Project Workflow
 1. **Data Import:** Imported Excel dataset from Kaggle.  
 2. **Understand Business Problem & Keywords:** Analyzed strategic content planning needs.  
    - Keywords: Netflix content library, dominant genres, dominant content type, release year trends  
@@ -56,7 +57,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
 9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
 
-## 8. Key Insights
+## 9. Key Insights
 
 **1. Content Volume**  
 - Total shows: 24,000 (17,000 Movies – 71%, 7,000 TV Shows – 29%)  
@@ -82,7 +83,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Most content is targeted toward general and teen audiences (TV-MA, TV-14).  
 - Focuses on broad appeal while maintaining family and teen-friendly content.  
 
-## 9. Business Recommendations
+## 10. Business Recommendations
 
 1. **Increase Localized Content:**  
    - Invest in producing content for high-growth markets like India and the UK to attract new subscribers.  
