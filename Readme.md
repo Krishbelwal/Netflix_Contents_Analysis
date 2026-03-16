@@ -33,7 +33,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 ## 7. Project Workflow
 1. **Data Import:** Imported Excel dataset from Kaggle.  
 2. **Understanding Business Problem and Keywords:** Analyzed the need for strategic content planning.
-**Keywords -**
+. **Keywords**
 1 - Netflix content library
 2- dominate Genres 
 3- dominate content type 
