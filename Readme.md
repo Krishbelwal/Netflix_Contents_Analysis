@@ -34,7 +34,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Convert all the text in the capitalise column.  
 - Handled missing values in `Director`, `Cast`, and `Country` columns using the "Go - Special" method.  
 - Split multiple values in `Genres` and `Country` columns using **Split Column by Delimiter** in Power Query.  
-- Applied **Unpivot Columns** for a normalized row format.  
+- Applied the **Unpivot Columns** feature in Power Query for row format.  
 - Corrected date formats (dd-mm-yy → mm-dd-yy) for consistent visualization.  
 
 ## 6. Dataset Links
@@ -52,7 +52,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 3. **Define Key Metrics & KPIs:** Total shows, movies vs TV shows, top genres, top countries, YoY trends, and more.  
 4. **Data Cleaning & Transformation:** Cleaned data in Excel and Power Query.  
 5. **Data Analysis:** Used pivot tables and charts in Excel to identify patterns and trends.  
-6. **Power BI Import:** Imported cleaned data for visualization.  
+6. **Power BI Import:** Imported cleaned data for visualisation.  
 7. **DAX Measures:** Created measures like Total Shows, Total Movies, Total TV Shows, YoY Growth, and Top Countries.  
 8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
 9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
@@ -95,7 +95,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
    - Introduce new genres such as Documentaries or short-form series to address declining YoY growth.  
 
 4. **Leverage Duration Insights:**  
-   - Promote longer movies for binge-watching and optimize TV shows for episodic engagement.  
+   - Promote longer movies for binge-watching and optimise TV shows for episodic engagement.  
 
 5. **Target Family-Friendly Audience:**  
    - Continue prioritizing general and teen-rated content while selectively exploring niche mature content.
