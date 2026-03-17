@@ -17,7 +17,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Top producing countries vs genres  
 - Trend of top 5 genres (last 5 years)  
 - Genre distribution  
-- Average rating vs genres  
+- Rating vs genres  
 - Content vs duration
 - Yoy Trend for Genres (last 5 years)
 
