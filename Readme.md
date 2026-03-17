@@ -15,11 +15,11 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Year-over-Year (YoY) growth trend (last 10 years)  
 - Total shows per genre  
 - Top producing countries vs genres  
-- Trend of top 5 genres (last 2 years)  
+- Trend of top 5 genres (last 5 years)  
 - Genre distribution  
 - Average rating vs genres  
 - Content vs duration
-- Yoy Trend for Genres in last 10 year  
+- Yoy Trend for Genres (last 5 years)
 
 ## 3. Dataset
 - **Source:** Kaggle  
