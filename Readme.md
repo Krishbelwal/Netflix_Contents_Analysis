@@ -34,7 +34,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Convert the names of column in capatilize columns to improve the readability.  
 - Handled missing values in `Director`, `Cast`, and `Country` columns using the "Go - Special" method.  
 - Split multiple values in `Genres` and `Country` columns using **Split Column by Delimiter** in Power Query.  
-- Applied the **Unpivot Columns** feature in Power Query for row format.  .  
+- Applied the **Unpivot Columns** feature in Power Query for row format.   
 
 ## 6. Dataset Links
 - **Original Dataset:** [Download CSV](https://github.com/Krishbelwal/Netflix_Content_Analysis/blob/main/Original_dataset.csv)  
