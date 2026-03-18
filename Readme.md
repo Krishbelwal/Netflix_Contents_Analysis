@@ -57,45 +57,28 @@ This project analyzes Netflix content data to identify trends and user preferenc
 8. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
 9. **Insights & Recommendations:** Derived actionable insights to support business decisions.  
 
-## 9. Key Insights
+## 9. Key Insights & Business Recommendations
 
-**1. Content Volume**  
-- Total shows: 24,000 (17,000 Movies – 71%, 7,000 TV Shows – 29%)  
-- Movies dominate content, indicating focus on one-time viewing.  
+**1. Popular Content**  
+- Netflix has a total of **24,000 shows**, with **Movies making up 71% and TV Shows 29%**.  
+- This shows that movies dominate, so Netflix could **focus more on TV shows to increase long-term user engagement**.  
 
 **2. Top Producing Countries**  
-- USA leads (~6,700 shows), followed by India, UK, and France.  
-- Opportunity for growth in emerging markets like India.  
+- The **USA leads with ~6,700 shows** around 42%.  
+- This indicates strong production in the US, but Netflix can **invest more in India and the UK to attract more and user subscribers**.  
 
 **3. Popular Genres**  
-- Top genres: International Movies, Dramas  
-- International Movies and Dramas have the highest number of shows.  
+- The most popular genres are **International Movies and Dramas**, which have the highest number of shows.  
+- Netflix could **also explore other genres** to diversify content and reach different audiences.  
 
 **4. Content Trends**  
-- YoY growth peaked around 2017–2018, but declined by -45% in 2021.  
-- Suggests market saturation and need for diversified or high-demand content.  
+- The year-over-year content growth has been **fluctuating**, with some years higher and others lower.  
+- This suggests that Netflix should **plan content production more strategically** to maintain consistent growth.  
 
-**5. Average Duration**  
-- Movies average ~103 minutes, longer than TV Shows.  
-- Longer movies encourage binge-watching; TV shows suit episodic engagement.  
+**5. Ratings Distribution**  
+- Most content is targeted toward **general and teen audiences (TV-MA, TV-14)**.  
+- Since International Movies are most popular among these ratings, Netflix can **focus on producing content in this genre to attract and retain teen viewers**.  
 
-**6. Ratings Distribution**  
-- Most content is targeted toward general and teen audiences (TV-MA, TV-14).  
-- Focuses on broad appeal while maintaining family and teen-friendly content.  
-
-## 10. Business Recommendations
-
-1. **Increase Localized Content:**  
-   - Invest in producing content for high-growth markets like India and the UK to attract new subscribers.  
-
-2. **Focus on High-Demand Genres:**  
-   - Expand production in Dramas and International Movies due to consistent popularity.  
-
-3. **Diversify Content:**  
-   - Introduce new genres such as Documentaries or short-form series to address declining YoY growth.  
-
-4. **Leverage Duration Insights:**  
-   - Promote longer movies for binge-watching and optimise TV shows for episodic engagement.  
-
-5. **Target Family-Friendly Audience:**  
-   - Continue prioritizing general and teen-rated content while selectively exploring niche mature content.
+**6. Average Duration**  
+- Movies have an average duration of **~103 minutes**, longer than TV shows.  
+- This allows for binge-watching, while TV shows suit episodic viewing. Netflix can **optimise content formats based on this trend**.     
