@@ -61,18 +61,22 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - Netflix has a total of **24,000 shows**, with **Movies making up 71% and TV Shows 29%**.  
 - This shows that movies dominate, so Netflix could **focus more on TV shows to increase long-term user engagement**.  
 
+**2. Popular Genres**  
+- The most popular genres are **International Movies and Dramas**, This indicates internatinal with story-driven contents.  
+- The platform should continue to invest in high quality internatinal drama series.
+
 **2. Top Producing Countries**  
-- The **USA leads with ~6,700 shows** around 42%.  
-- This indicates strong production in the US, but Netflix can **invest more in India and the UK to attract more and user subscribers**.  
+- The **USA leads with ~6,700 shows** around 42%. This indicates strong production in the usa.
+-  Netflix can **invest more in India and the UK to attract more users subscribers**.  
 
-**3. Popular Genres**  
-- The most popular genres are **International Movies and Dramas**, which have the highest number of shows.  
-- Netflix could **also explore other genres** to diversify content and reach different audiences.  
+**3. Content Trends**  
+- Both Movie and Tv show shows an increasing Trend up to 2018 and 2018 is peak year for movie and 202o is peak year for TV show,s after i steady deacresed may be due to changing user prefence and content saturation.
+- Netflix should understand the user viewing prefernce.
 
-**4. Content Trends**  
+**4. Ratings Distribution**  
+- Most content is targeted toward **(TV-MA, TV-14)** for both movie and tv show and internaltinal movie genre has been most popular among viewwrs.which indicates global   audenice are more intrested mature and internatinal relatble contents.
+- Plartform shoud continue inversting in TV-MA, TV-14 contents with expanding intenatinal movie libary.
+
+**4. YoY  Trends**  
 - The year-over-year content growth has been **fluctuating**, with some years higher and others lower.  
 - This suggests that Netflix should **plan content production more strategically** to maintain consistent growth.  
-
-**5. Ratings Distribution**  
-- Most content is targeted toward **general and teen audiences (TV-MA, TV-14)**.  
-- Since International Movies are most popular among these ratings, Netflix can **focus on producing content in this genre to attract and retain teen viewers**.  
