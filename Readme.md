@@ -31,7 +31,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 - **Power BI:** Dashboard development & visualization  
 
 ## 5. Data Cleaning Steps: 
-- checking duplicates row-wise and column-wise.
+- Checking duplicates row-wise and column-wise.
 - Convert the names of columns to capitalise columns to improve the readability.  
 - Handled missing values in `Director`, `Cast`, and `Country` columns using the "Go - Special" method.  
 - Split multiple values in `Genres` and `Country` columns using **Split Column by Delimiter** in Power Query.  
