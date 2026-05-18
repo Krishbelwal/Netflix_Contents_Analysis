@@ -61,21 +61,21 @@ This project analyzes Netflix content data to identify trends and user preferenc
 
 * Netflix has a total of approximately **24,000 titles**, where **Movies account for 71%** and **TV Shows account for 29%** of the content library.
 * This indicates that movies dominate the platform’s content strategy.
-* 
+  
 * Netflix can focus on producing and promoting TV shows to increase long-term user engagement and retention.
 
 ### 2. Popular Genres
 
 * The most popular genres on Netflix are **International Movies** and **Dramas**.
 * This indicates that audiences highly prefer internationally relatable and story-driven contents.
-* 
+ 
 * Netflix should continue investing in high-quality international movies and drama series to maintain audience interest globally.
 
 ### 3. Top Producing Countries
 
 * The **United States leads content production** nearly **42%** of the total content library.
 * This indicates the strong dominance of the U.S in the platform.
-* 
+ 
 * Netflix can further invest in countries such as **India** and the **United Kingdom** to attract more viewers.
 
 ### 4. Content Trends
@@ -83,7 +83,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 * Both Movies and TV Shows showed a steady growth trend until 2018.
 * **2018 was the peak year for Movies**, while **2020 was the peak year for TV Shows**. After these periods, content growth gradually declined.
 * This decline may indicate changing audience preferences, market saturation.
-* 
+ 
 * Netflix should continuously analyse user viewing preferences and content demand and make content strategy accordingly.
 
 ### 5. Ratings Distribution
@@ -98,7 +98,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 ### 6. Year-over-Year (YoY) Trends
 
 * The year-over-year content growth trend has been fluctuating, with some years showing strong growth while others experienced slower expansion.
-* 
+ 
 * This suggests that Netflix should plan to make strategic and consistent content production approach to maintain stable growth.
 
 
