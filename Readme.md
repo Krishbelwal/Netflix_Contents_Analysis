@@ -91,7 +91,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 * Most Netflix content falls under the **TV-MA** and **TV-14** rating categories for both Movies and TV Shows.
 * Additionally, the **International Movies** genre highly popular among viewers.
 * This indicates that global audiences are more interested in mature, realistic, and internationally relatable content.
- 
+  
 * Netflix should continue investing in TV-MA and TV-14 contents while also expanding its international movie library.
 
 
@@ -107,7 +107,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 * Most genres steady growth until 2018, after which they started to decline.
 * International TV Shows continued growing until 2020 after declined started.
 * This trend highlights that audience interests and viewing preferences are continuously changing.
-* 
+  
 * Netflix should regularly update with its content and analyze the auidence intrest and make content streagity according to changing user preferences and market trends.
 
 
