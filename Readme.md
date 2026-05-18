@@ -105,7 +105,7 @@ This project analyzes Netflix content data to identify trends and user preferenc
 ### 7. Genre Trends
 
 * Most genres steady growth until 2018, after which they started to decline.
-* International TV Shows continued growing until 2020 before also declining afterward.
+* International TV Shows continued growing until 2020 after declined started.
 * This trend highlights that audience interests and viewing preferences are continuously changing.
 * 
 * Netflix should regularly update with its content and analyze the auidence intrest and make content streagity according to changing user preferences and market trends.
