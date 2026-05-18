@@ -71,9 +71,9 @@ This project analyzes Netflix content data to identify trends and user preferenc
 
 ### 3. Top Producing Countries
 
-* The **United States leads content production** with approximately **6,700 titles**, contributing nearly **42%** of the total content library.
-* This reflects the strong dominance of the U.S. entertainment industry on the platform.
-* Netflix can further invest in countries such as **India** and the **United Kingdom** to expand regional content and attract more subscribers from international markets.
+* The **United States leads content production** nearly **42%** of the total content library.
+* This indicates the strong dominance of the U.S in the platform.
+* Netflix can further invest in countries such as **India** and the **United Kingdom** to attract more viewers.
 
 ### 4. Content Trends
 
