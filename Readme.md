@@ -57,26 +57,51 @@ This project analyzes Netflix content data to identify trends and user preferenc
 
 ## 9. Key Insights & Business Recommendations
 
-**1. Popular Content**  
-- Netflix has a total of **24,000 shows**, with **Movies making up 71% and TV Shows 29%**.  
-- This shows that movies dominate, so Netflix could **focus more on TV shows to increase long-term user engagement**.  
+### 1. Popular Content
 
-**2. Popular Genres**  
-- The most popular genres are **International Movies and Dramas**, This indicates internatinal with story-driven contents.  
-- The platform should continue to invest in high quality internatinal drama series.
+* Netflix has a total of approximately **24,000 titles**, where **Movies account for 71%** and **TV Shows account for 29%** of the content library.
+* This indicates that movies dominate the platform’s content strategy.
+* Netflix can focus more on producing and promoting TV shows, as series-based content helps improve long-term user engagement and retention.
 
-**2. Top Producing Countries**  
-- The **USA leads with ~6,700 shows** around 42%. This indicates strong production in the usa.
--  Netflix can **invest more in India and the UK to attract more users subscribers**.  
+### 2. Popular Genres
 
-**3. Content Trends**  
-- Both Movie and Tv show shows an increasing Trend up to 2018 and 2018 is peak year for movie and 202o is peak year for TV show,s after i steady deacresed may be due to changing user prefence and content saturation.
-- Netflix should understand the user viewing prefernce.
+* The most popular genres on Netflix are **International Movies** and **Dramas**.
+* This suggests that audiences highly prefer internationally relatable and story-driven content.
+* Netflix should continue investing in high-quality international movies and drama series to maintain audience interest globally.
 
-**4. Ratings Distribution**  
-- Most content is targeted toward **(TV-MA, TV-14)** for both movie and tv show and internaltinal movie genre has been most popular among viewwrs.which indicates global   audenice are more intrested mature and internatinal relatble contents.
-- Plartform shoud continue inversting in TV-MA, TV-14 contents with expanding intenatinal movie libary.
+### 3. Top Producing Countries
 
-**4. YoY  Trends**  
-- The year-over-year content growth has been **fluctuating**, with some years higher and others lower.  
-- This suggests that Netflix should **plan content production more strategically** to maintain consistent growth.  
+* The **United States leads content production** with approximately **6,700 titles**, contributing nearly **42%** of the total content library.
+* This reflects the strong dominance of the U.S. entertainment industry on the platform.
+* Netflix can further invest in countries such as **India** and the **United Kingdom** to expand regional content and attract more subscribers from international markets.
+
+### 4. Content Trends
+
+* Both Movies and TV Shows showed a steady growth trend until 2018.
+* **2018 was the peak year for Movies**, while **2020 was the peak year for TV Shows**. After these periods, content growth gradually declined.
+* This decline may indicate changing audience preferences, market saturation, or shifts in content consumption behavior.
+* Netflix should continuously analyze user viewing preferences and adapt its content strategy accordingly.
+
+### 5. Ratings Distribution
+
+* Most Netflix content falls under the **TV-MA** and **TV-14** rating categories for both Movies and TV Shows.
+* Additionally, the **International Movies** genre remains highly popular among viewers.
+* This indicates that global audiences are more interested in mature, realistic, and internationally relatable content.
+* Netflix should continue investing in TV-MA and TV-14 content while also expanding its international movie library.
+
+### 6. Year-over-Year (YoY) Trends
+
+* The year-over-year content growth trend has been fluctuating, with some years showing strong growth while others experienced slower expansion.
+* This suggests that Netflix should adopt a more strategic and consistent content production approach to maintain stable growth over time.
+
+### 7. Genre Trends
+
+* Most genres experienced steady growth until 2018, after which they started to decline.
+* In contrast, International TV Shows continued growing until 2020 before also declining afterward.
+* This trend highlights that audience interests and viewing preferences are continuously evolving.
+* Netflix should regularly update and diversify its content library according to changing user preferences and market trends.
+
+
+
+
+ 
